@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+<img align="right" alt="GIF" src="https://github.com/ichrakbensaad1/master/code.gif?raw=true" width="500" height="320" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
