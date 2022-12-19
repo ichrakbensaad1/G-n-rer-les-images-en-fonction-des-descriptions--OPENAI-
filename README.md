@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+ <img src="image.png"  width= 222/>
 <video controls width="250">
 
     
